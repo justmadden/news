@@ -1,0 +1,15 @@
+.Root {
+	display: flex;
+	height: 100vh;
+	width: 100%;
+	background: var(--white);
+	overflow: hidden;
+}
+.Sidebar {
+	max-width: 400px;
+	width: 30%;
+}
+.Articles {
+	width: 100%;
+	height: 100%;
+}

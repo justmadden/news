@@ -1,0 +1,13 @@
+@import './reset.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+body {
+	min-height: 100vh;
+	font-family: 'Roboto', sans-serif;
+}
+:root {
+	--dark-blue: #2a4d69;
+	--white: #ffffff;
+	--black-squeeze: #e7eff6;
+	--blue: #63ace5;
+	--grey: #636262;
+}
